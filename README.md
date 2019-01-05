@@ -4,6 +4,6 @@
 <title>Diagram</title>
 </head>
 <body>
-	<img src="diagram.jpg">
+	<p>hello world</p>
 </body>
 </html>
